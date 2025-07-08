@@ -63,7 +63,7 @@ This project showcases a well-structured sales dashboard analyzing sales data ac
 
 Below is a snapshot of the full dashboard:
 
-![Sales Dashboard Full View](./c7f05f18-38a3-453b-ab08-856ca804f36b.png)
+(https://github.com/nouranyasser/Sales-Dashboard-Excel-/blob/main/salesdashboard.png)
 
 ---
 
